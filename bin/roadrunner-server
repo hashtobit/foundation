@@ -1,0 +1,4 @@
+#!/usr/bin/env php
+<?php
+
+$bootstrap = require __DIR__ . '/../../../laravel/octane/bin/bootstrap.php';
